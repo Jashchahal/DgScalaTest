@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.eclipse.jetty:jetty-security:9.2.19.v20160908:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-security/jars/jetty-security-9.2.19.v20160908.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-security/docs/jetty-security-9.2.19.v20160908-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-security/srcs/jetty-security-9.2.19.v20160908-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
